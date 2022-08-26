@@ -42,4 +42,6 @@ Based on the data, here are three recommendations that might be considered:
 
 3.	**Lower Suburban Fares to drive more demand** – Since Suburban Fares per Ride are 26% higher than Urban fares per Ride, try lowering them to increase demand (i.e., the number of rides). For example, if lowering Suburban Fares per Ride by 10% from $30.97 to $27.87 can increase the total Suburban rides by 20%, then overall Revenue will increase by $1.5k or 2.4%.
 
+Implementing all three of these recommendations would increase Revenue by $7.9k or 12.4%, from $63.6k to $71.4k. 
+
 
