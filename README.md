@@ -18,7 +18,7 @@ The ***PyBer Analysis*** simulation model offers a real-world example where Omar
 
 Based on the analysis, Urban cities have the most Rides and the most Drivers, but the lowest Average Fare per Ride and lowest Average Fare per Driver. On the other hand, Rural cities have fewer Rides and fewer Drivers, but have the highest Average Fare per Ride and highest Average Fare per Driver. Suburban cities fall between Urban and Rural on all four metrics. 
 
-![](https://github.com/vjtrom/PyBer-Analysis/blob/main/analysis/Cities_Summary.png)!
+![](https://github.com/vjtrom/PyBer-Analysis/blob/main/analysis/Cities_Summary.png)
 
 **Given these metrics, Total Fares can be calculated in two ways:**
 
@@ -29,7 +29,7 @@ When multiplying these out, it is shown that Urban cities produce the most Reven
 
 Total Revenue across all cities is $63.6k. The Average Fare per Ride across all three city types is $26.75 and the Average Fare per Driver across all three city types is $21.37. 
 
-![](https://github.com/vjtrom/PyBer-Analysis/blob/main/analysis/PyBer_fare_summary.png)!
+![](https://github.com/vjtrom/PyBer-Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 ## Summary:
 
